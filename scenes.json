@@ -1,0 +1,35 @@
+[
+  {
+    "src": "img/01.webp",
+    "cap": "Autumn light opens the path."
+  },
+  {
+    "src": "img/02.webp",
+    "cap": "The scent deepens. My footsteps move forward."
+  },
+  {
+    "src": "img/03.webp",
+    "cap": "A small pair of eyes glimmers between the leaves."
+  },
+  {
+    "src": "img/04.webp",
+    "cap": "It doesn’t flee. It meets my gaze head-on."
+  },
+  {
+    "src": "img/05.webp",
+    "cap": "The distance softens by a single step."
+  },
+  {
+    "src": "img/06.webp",
+    "cap": "A quiet sign of sweetness—words unnecessary."
+  },
+  {
+    "src": "img/07.webp",
+    "cap": "Running beside the wind, laughter becomes the beat."
+  },
+  {
+    "src": "vid/08.mp4",
+    "cap": "That’s enough for today. Thank you for the treat.",
+    "isVideo": true
+  }
+]
